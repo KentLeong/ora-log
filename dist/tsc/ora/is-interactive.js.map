@@ -1,0 +1,1 @@
+{"version":3,"file":"is-interactive.js","sourceRoot":"","sources":["../../../src/ora/is-interactive.ts"],"names":[],"mappings":";;AAAA,SAAwB,aAAa,CAAC,EAAC,MAAM,GAAG,OAAO,CAAC,MAAM,EAAC,GAAG,EAAE;IACnE,OAAO,OAAO,CACb,MAAM,IAAI,MAAM,CAAC,KAAK;QACtB,OAAO,CAAC,GAAG,CAAC,IAAI,KAAK,MAAM;QAC3B,CAAC,CAAC,IAAI,IAAI,OAAO,CAAC,GAAG,CAAC,CACtB,CAAC;AACH,CAAC;AAND,gCAMC"}

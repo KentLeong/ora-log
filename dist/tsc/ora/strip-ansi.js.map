@@ -1,0 +1,1 @@
+{"version":3,"file":"strip-ansi.js","sourceRoot":"","sources":["../../../src/ora/strip-ansi.ts"],"names":[],"mappings":";;;AAAA,oEAAmC;AAEnC,SAAwB,SAAS,CAAC,MAAM;IACvC,IAAI,OAAO,MAAM,KAAK,QAAQ,EAAE;QAC/B,MAAM,IAAI,SAAS,CAAC,gCAAgC,OAAO,MAAM,IAAI,CAAC,CAAC;KACvE;IAED,OAAO,MAAM,CAAC,OAAO,CAAC,IAAA,oBAAS,GAAE,EAAE,EAAE,CAAC,CAAC;AACxC,CAAC;AAND,4BAMC"}

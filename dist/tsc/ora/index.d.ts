@@ -1,0 +1,37 @@
+declare class Ora {
+    #private;
+    _stream: any;
+    _isEnabled: any;
+    lastIndent: any;
+    color: any;
+    constructor(options: any);
+    get indent(): any;
+    set indent(indent: any);
+    get interval(): any;
+    get spinner(): any;
+    set spinner(spinner: any);
+    get text(): any;
+    set text(value: any);
+    get prefixText(): any;
+    set prefixText(value: any);
+    get isSpinning(): boolean;
+    getFullPrefixText(prefixText?: any, postfix?: string): string;
+    updateLineCount(): void;
+    get isEnabled(): boolean;
+    set isEnabled(value: boolean);
+    get isSilent(): any;
+    set isSilent(value: any);
+    frame(): string;
+    clear(): this;
+    render(): this;
+    start(text?: any): this;
+    stop(): this;
+    succeed(text: any): this;
+    fail(text: any): this;
+    warn(text: any): this;
+    info(text: any): this;
+    stopAndPersist(options?: any): this;
+}
+export default function ora(options: any): Ora;
+export declare function oraPromise(action: any, options: any): Promise<any>;
+export {};
